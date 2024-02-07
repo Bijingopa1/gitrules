@@ -1,0 +1,2 @@
+# gitrules
+TR rasigan
